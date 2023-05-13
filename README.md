@@ -8,7 +8,7 @@ Este proyecto tiene como objetivo realizar un análisis exploratorio de datos (E
 
 | <img src="https://res.cloudinary.com/diyk4to11/image/upload/v1664465504/Integrantes/LuisMi_yvmw6a.png" width=50>| <img src="https://avatars.githubusercontent.com/u/92761637?v=4" width=50>|
 |:-:|:-:|
-| **LuMi**| **Noren**|
+| **LuMi**| **Naren**|
 | <a href="https://github.com/lumiguz"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/dataluis/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://github.com/Naren-7"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/narenfragozo7/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> |
 
 ## Dataset
