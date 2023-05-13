@@ -39,11 +39,10 @@ Los objetivos principales del análisis exploratorio de datos son los siguientes
 5. ¿Qué país produce más contenido, series o películas?
 6. ¿Cuáles son las palabras que más se repiten en la descripción de las películas y series?
 7. ¿Cuál es la película y serie con la mayor duración?
-8. ¿Cómo se comparan las palabras que más se repiten en la descripción con la película y serie de mayor duración en minutos?
-9. ¿Cuáles son las 10 películas y series con mayor número de puntaje?
-10. ¿Quiénes son los actores y directores de las películas más populares?
-11. ¿Quiénes son los directores más populares en cada región?
-12. ¿Cuál es la mejor película de cada década según el puntaje de IMDB?
+8. ¿Cuáles son las 10 películas y series con mayor número de puntaje?
+9. ¿Quiénes son los actores y directores de las películas más populares?
+10. ¿Quiénes son los directores más populares en cada región?
+11. ¿Cuál es la mejor película de cada década según el puntaje de IMDB?
 
 ## Resultados
 
@@ -51,13 +50,12 @@ Los resultados del análisis exploratorio de datos se presentan en el archivo `f
 
 Entre los hallazgos más destacados se encuentran:
 
-- La distribución de películas y programas de televisión en Netflix es casi igual, con una ligera ventaja para las películas.
-- Estados Unidos es el país que produce la mayor cantidad de títulos en Netflix, seguido de India y el Reino Unido.
-- Los géneros de películas y programas de televisión más comunes en Netflix son la comedia, el drama y el documental.
-- La película con la calificación más alta en Netflix es "The Shawshank Redemption", mientras que el programa de televisión con la calificación más alta es "Breaking Bad".
-- Los actores y actrices más comunes en Netflix son Anupam Kher, Shah Rukh Khan y Om Puri.
+- Se ha observado que los usuarios tienden a otorgar una calificación más alta a las series que a las peliculas.
+- Se pudo observar que las películas con la duración más larga fueron "A Lion in the House", "A Sinister Sect: Colonia Dignidad" y "The Irishman".
+- Se puede observar que, de acuerdo con las puntuaciones, "The Dark Knight" es la mejor película de las últimas siete décadas.
+- Se observa una clara predominancia de los Estados Unidos en cuanto a la producción de películas y series, no obstante, es importante destacar que el director más popular en este ámbito proviene de Noruega (NO).
 
 ## Conclusiones
 
-En este proyecto se realizó un análisis exploratorio de datos sobre el contenido de Netflix, con el objetivo de identificar patrones y tendencias en los datos. Los resultados obtenidos permiten conocer mejor la distribución de películas y programas de televisión en Netflix, así como los países, géneros, actores y calificaciones más comunes. Este análisis puede ser de utilidad para entender mejor las preferencias de los usuarios de Netflix y para la toma de decisiones en cuanto a la adquisición de nuevos títulos para la plataforma.
+En este proyecto se realizó un análisis exploratorio de datos sobre el contenido de Netflix, con el objetivo de identificar patrones y tendencias en los datos. Los resultados obtenidos permiten conocer mejor la distribución de películas y Series en Netflix, así como los países, géneros, actores y calificaciones más comunes. Este análisis puede ser de utilidad para entender mejor las preferencias de los usuarios de Netflix.
 
