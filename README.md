@@ -14,7 +14,7 @@ Este proyecto tiene como objetivo realizar un análisis exploratorio de datos (E
 
 
 ## Dataset
-El dataset utilizado es una base de datos de títulos de películas y programas de televisión disponibles en Netflix del 1950 al 2023. El dataset cuenta con más de 6137 registros/filas y 15 variables.
+El dataset utilizado es una base de datos de títulos de películas y series disponibles en Netflix del 1945 al 2023. El dataset cuenta con más de 6137 registros/filas y 15 variables.
 [**🔗 Link de la fuente de datos**](https://www.kaggle.com/datasets/dgoenrique/netflix-movies-and-tv-shows?select=credits.csv)
 
 ## Variables
