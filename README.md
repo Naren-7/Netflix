@@ -56,7 +56,7 @@ Los objetivos principales del análisis exploratorio de datos son los siguientes
 
 ## Resultados
 
-Los resultados del análisis exploratorio de datos se presentan en el archivo `file_name.ipynb`. En este archivo se incluyen visualizaciones y estadísticas descriptivas que responden a los objetivos planteados.
+Los resultados del análisis exploratorio de datos se presentan en el archivo `EDA_Netflix.ipynb`. En este archivo se incluyen visualizaciones y estadísticas descriptivas que responden a los objetivos planteados.
 
 Entre los hallazgos más destacados se encuentran:
 
