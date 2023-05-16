@@ -1,4 +1,4 @@
-![https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb](https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb)
+![Logo_netflix](/Imagenes/Netflix_logo.jpg)
 ## Developers
 
 | <img src="https://res.cloudinary.com/diyk4to11/image/upload/v1664465504/Integrantes/LuisMi_yvmw6a.png" width=50>| <img src="https://avatars.githubusercontent.com/u/92761637?v=4" width=50>|
