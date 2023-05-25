@@ -1,5 +1,6 @@
 <!-- ![Logo_netflix](./Imagenes/netflix.png) -->
-<img src='/Imagenes/Netflix.png' width = 1000 heigth=500>
+<img src='./Imagenes/netflix.png' width = 1000 heigth=500>
+
 ## Developers
 
 | <img src="https://res.cloudinary.com/diyk4to11/image/upload/v1664465504/Integrantes/LuisMi_yvmw6a.png" width=50>| <img src="https://avatars.githubusercontent.com/u/92761637?v=4" width=50>|
