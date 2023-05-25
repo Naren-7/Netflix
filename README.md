@@ -1,4 +1,4 @@
-<!-- ![Logo_netflix](./Imagenes/Netflix.png) -->
+<!-- ![Logo_netflix](./Imagenes/netflix.png) -->
 <img src='/Imagenes/Netflix.png' width = 1000 heigth=500>
 ## Developers
 
